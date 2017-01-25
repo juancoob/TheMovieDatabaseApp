@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Movie Database App</string>
+    <string name="movie_image">Movie image</string>
+    <string name="dummyText">dummyText</string>
+    <string name="no_movies">According to your search, all movies have been fetched and are
+        ready to be shown</string>
+</resources>

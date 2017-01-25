@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Movie Database App</string>
+    <string name="movie_image">Imagen de la película</string>
+    <string name="dummyText">dummyText</string>
+    <string name="no_movies">Según su búsqueda, todas las películas se han buscado y están listas
+        para mostrarse</string>
+</resources>
