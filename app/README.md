@@ -1,5 +1,5 @@
 # TheMovieDatabaseApp
-TheMovieDatabaseApp is an app which manages search results to show movies. This is my first app using the MVP pattern and it was nice! it really useful to maintain code.
+TheMovieDatabaseApp is an Android app which manages search results to show movies. This is my first app using the MVP pattern and it was nice! it really useful to maintain code.
 
 ##Functionality
 * When the app is launched, an infinitelist of the most popular movies is displayed.
