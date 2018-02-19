@@ -27,7 +27,7 @@ import okhttp3.Response;
 
 public class MoviesPresenter implements MoviesContract.Presenter {
 
-    public static final String API_KEY = "93aea0c77bc168d8bbce3918cefefa45";
+    public static final String API_KEY = "YOUR_API_KEY";
     public static final String URL = "https://api.themoviedb.org/3";
     public static final String POPULAR_MOVIES = "/movie/popular";
     public static final String SEARCH_KEYWORD = "/search/keyword";
